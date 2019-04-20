@@ -1,0 +1,22 @@
+{
+  "name": "eliza-js",
+  "version": "1.0.0",
+  "description": "natural language conversation program described by Joseph Weizenbaum",
+  "main": "elizaapp.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m04uc513/eliza-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m04uc513/eliza-js/issues"
+  },
+  "homepage": "https://github.com/m04uc513/eliza-js#readme"
+}
